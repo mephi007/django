@@ -1,0 +1,487 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"maxSubArray"
+			],
+			[
+				"printT",
+				"printTriplet"
+			],
+			[
+				"p",
+				"possibleMoves"
+			],
+			[
+				"computer",
+				"computerLetter"
+			],
+			[
+				"f",
+				"full_board"
+			],
+			[
+				"player",
+				"playerLetter"
+			],
+			[
+				"rand",
+				"random_moves"
+			],
+			[
+				"ran",
+				"random_moves"
+			],
+			[
+				"ra",
+				"random_moves"
+			],
+			[
+				"playe",
+				"playerLetter"
+			],
+			[
+				"comput",
+				"computerLetter"
+			],
+			[
+				"compu",
+				"computerLetter"
+			],
+			[
+				"b",
+				"board_copy"
+			],
+			[
+				"fr",
+				"free_space"
+			],
+			[
+				"input",
+				"input_player"
+			],
+			[
+				"to",
+				"total_links"
+			],
+			[
+				"pr",
+				"price"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"fea",
+				"features"
+			],
+			[
+				"__",
+				"__name__\t(Web_scapper.py)"
+			],
+			[
+				"price",
+				"price_sec"
+			],
+			[
+				"til",
+				"title_sec"
+			],
+			[
+				"tit",
+				"title_sec"
+			],
+			[
+				"state",
+				"states"
+			],
+			[
+				"co",
+				"correctAnswer"
+			],
+			[
+				"quiz",
+				"quizfile"
+			],
+			[
+				"gro",
+				"group\t(dict.py)"
+			],
+			[
+				"Tk",
+				"Tkinter"
+			],
+			[
+				"is_",
+				"is_tie"
+			],
+			[
+				"is",
+				"is_winner"
+			],
+			[
+				"print",
+				"print_board"
+			],
+			[
+				"birth",
+				"birthdays"
+			],
+			[
+				"tu",
+				"tuple"
+			],
+			[
+				"odd",
+				"odd_list"
+			],
+			[
+				"del",
+				"delim"
+			],
+			[
+				"ends",
+				"endswith"
+			],
+			[
+				"starts",
+				"startswith"
+			],
+			[
+				"no",
+				"no_punc"
+			],
+			[
+				"prin",
+				"print_lines"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 172.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Preferences: Settings"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python3"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"5+8",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/sumit/Desktop/djangoweb/djangoweb/settings.py",
+		"/home/sumit/Desktop/django/mysite/mysite/settings.py",
+		"/home/sumit/Desktop/django/mysite/posts/admin.py",
+		"/home/sumit/Desktop/django/mysite/myapp/models.py",
+		"/home/sumit/Desktop/c-program/lcm.c",
+		"/home/sumit/Desktop/c-program/exper.c",
+		"/home/sumit/Desktop/c-program/inverse_star.c",
+		"/home/sumit/Desktop/c-program/MysirG_star_pattern.c",
+		"/home/sumit/Desktop/c-program/Spiral_array.c",
+		"/home/sumit/Desktop/c-program/IspythagoreanTriplt.c",
+		"/home/sumit/Desktop/c-program/printPythagoreanTriplet.c",
+		"/home/sumit/Desktop/c-program/Largestsum_subArray.c",
+		"/home/sumit/Desktop/c-program/Gcd_forloop.c",
+		"/home/sumit/Desktop/c-program/Vowels_elimination.c",
+		"/home/sumit/Desktop/c-program/Pascal_triangle.c",
+		"/home/sumit/Desktop/c-program/Armstrong_number.c",
+		"/home/sumit/Desktop/c-program/Strong_number.c",
+		"/home/sumit/Desktop/c-program/Fibonacci_series.c",
+		"/home/sumit/Desktop/c-program/Bubble_sort.c",
+		"/home/sumit/Desktop/c-program/Selection_sort.c",
+		"/home/sumit/Desktop/c-program/Insertion_sort.c",
+		"/home/sumit/Desktop/c-program/one_line_print.c",
+		"/home/sumit/Desktop/c-program/MysirG_star_pattern_2.c",
+		"/home/sumit/Desktop/c-program/hackerrank_max_of_four_number.c",
+		"/home/sumit/Desktop/c-program/MysirG_star_pattern_3.c",
+		"/home/sumit/Desktop/c-program/MysirG_star_pattern_4.c",
+		"/home/sumit/Desktop/c-program/MysirG_star_pattern_5.c",
+		"/home/sumit/Desktop/c-program/MysirG_star_pattern_6.c",
+		"/home/sumit/Desktop/c-program/MysirG_number_pattern_1.c",
+		"/home/sumit/Desktop/c-program/MysirG_alphabet_pattern_2.c",
+		"/home/sumit/Desktop/MysirG_number_triangle_4.c",
+		"/home/sumit/Desktop/c-program/MysirG_number_triangle_4.c",
+		"/home/sumit/Desktop/c-program/wipro_patter.c",
+		"/home/sumit/Desktop/c-program/symbol.c",
+		"/home/sumit/Desktop/c-program/MysirG_ASCII_pattern.c",
+		"/home/sumit/Desktop/c-program/palindromic_array.c",
+		"/home/sumit/Desktop/c-program/palindrome.c",
+		"/home/sumit/Desktop/c-program/Remove_duplicate_array.c",
+		"/home/sumit/Desktop/c-program/wipro_number_pattern_1.c",
+		"/home/sumit/Desktop/c-program/wipro_number_pattern_floyd's_triangle.c",
+		"/home/sumit/Desktop/c-program/MysirG_alphabet_pattern.c",
+		"/home/sumit/Desktop/mysirG_alphabet+digit_pattern.c",
+		"/home/sumit/Desktop/c-program/MysirG_alphanumeric_pattern.c",
+		"/home/sumit/Desktop/c-program/MysirG_binary_pattern.c",
+		"/home/sumit/Desktop/c-program/Mysirg",
+		"/home/sumit/Desktop/c-program/mysirG_alphabet+digit_pattern.c",
+		"/home/sumit/Desktop/c-program/MysirG_trapezium_pattern.c",
+		"/home/sumit/Desktop/c-program/Missing_number_array.c",
+		"/home/sumit/Desktop/c-program/Element_fequency_array.c",
+		"/home/sumit/Desktop/c-program/Reverse_array.c",
+		"/home/sumit/Desktop/c-program/Ascending_Desending_sort.c",
+		"/home/sumit/Desktop/c-program/Wipro_number_pattern_3.c",
+		"/home/sumit/Desktop/c-program/Geeksforgeek_pattern.c",
+		"/home/sumit/Desktop/c-program/equal_array.c",
+		"/home/sumit/Desktop/c-program/Insert_ele_array.c",
+		"/home/sumit/Desktop/c-program/Delete_ele_array.c",
+		"/home/sumit/Desktop/c-program/Union_array.c",
+		"/home/sumit/Desktop/c-program/Intersection_array.c",
+		"/home/sumit/Desktop/c-program/MysirG_Diamond_pattern.c",
+		"/home/sumit/Desktop/c-program/MysirG_number_triangle_decreasing.c",
+		"/home/sumit/Desktop/c-program/MysirG_right_side_horizontal_number_pattern.c",
+		"/home/sumit/Desktop/c-program/MysirG_rhombus_middle.c",
+		"/home/sumit/Desktop/c-program/MysirG_reverse_triangle_2.c",
+		"/home/sumit/Desktop/c-program/MysirG_diamond_pattern.c",
+		"/home/sumit/Desktop/c-program/MysirG_reverse_half_triangle.c",
+		"/home/sumit/Desktop/c-program/MysirG_number_triangle.c",
+		"/home/sumit/Desktop/c-program/random.c",
+		"/home/sumit/Desktop/c-program/power.c",
+		"/home/sumit/Desktop/c-program/hcf_lcm.c",
+		"/home/sumit/Desktop/c-program/star_triangle.c",
+		"/home/sumit/Desktop/c-program/star2.c",
+		"/home/sumit/Desktop/c-program/star1.c",
+		"/home/sumit/Desktop/sad.c",
+		"/home/sumit/Desktop/largest_number_array.c",
+		"/home/sumit/Desktop/c-program/largest_number_array.c",
+		"/home/sumit/Desktop/c-program/MysirG_number_triangle_4",
+		"/home/sumit/Desktop/AI-bot/tictactoe.py",
+		"/home/sumit/Desktop/AI-bot/tic_ta.py",
+		"/home/sumit/.cache/.fr-YnwKWD/tictactoe.py",
+		"/home/sumit/Desktop/bot/telebot.py",
+		"/home/sumit/Desktop/hello.sh",
+		"/home/sumit/Desktop/Blockchain/contracts/election.sol",
+		"/home/sumit/Desktop/Blockchain/migrations/2_deploy_contracts.js",
+		"/home/sumit/my-custom-blockchain/genesis.json",
+		"/home/sumit/Desktop/bot/bot.py",
+		"/home/sumit/Desktop/practical/Template/home.html",
+		"/home/sumit/Desktop/python-projects/import RPi.GPIO as io # import the GPIO library we",
+		"/home/sumit/Desktop/practical/app.py",
+		"/home/sumit/Desktop/flask-video-streaming/camera_opencv.py",
+		"/home/sumit/Desktop/cv.py",
+		"/home/sumit/Desktop/python-projects/rpi_bluetooth.py",
+		"/home/sumit/Downloads/linkedin/linkedin_login.py",
+		"/home/sumit/Downloads/linkedin/config.py",
+		"/home/sumit/Desktop/flask-video-streaming/templates/index.html",
+		"/home/sumit/Desktop/phython-basic/class and object",
+		"/home/sumit/Desktop/class/class",
+		"/home/sumit/Desktop/flask-video-streaming/app.py",
+		"/home/sumit/Desktop/flask-video-streaming/camera_pi.py",
+		"/home/sumit/Desktop/flask-video-streaming/requirements-opencv.txt",
+		"/home/sumit/Desktop/flask-video-streaming/base_camera.py",
+		"/home/sumit/Desktop/flask-video-streaming/camera.py",
+		"/home/sumit/Desktop/python-projects/Web_scapper.py",
+		"/home/sumit/Desktop/python-projects/e-comm.py",
+		"/home/sumit/Desktop/mqtt/mqqt_client.py",
+		"/home/sumit/Desktop/mqtt/cv.py",
+		"/home/sumit/Desktop/webcam/recv/receiver.py",
+		"/home/sumit/Desktop/linkedin.py",
+		"/home/sumit/Desktop/python-projects/quiz_project.py",
+		"/home/sumit/Desktop/mqtt/mqtt_publish.py",
+		"/home/sumit/Desktop/python-projects/quiz.py",
+		"/home/sumit/Desktop/flasky/index.py",
+		"/home/sumit/Documents/app/app.py",
+		"/home/sumit/Documents/app/home.html",
+		"/home/www/flask_project/static/index.html",
+		"/home/sumit/Desktop/flasky/index.p",
+		"/home/sumit/Documents/myflaskapp/env/app.py",
+		"/home/sumit/Documents/myflaskapp/env/myfalskapp.py",
+		"/home/sumit/Desktop/phython-basic/dict.py",
+		"/home/sumit/Desktop/portfolio/resume.css",
+		"/home/sumit/Desktop/portfolio/resume.html",
+		"/home/sumit/Desktop/python-projects/bot_tic_tac_toe.py",
+		"/home/sumit/Desktop/python-projects/tic_tac_toe_game.py",
+		"/home/sumit/Desktop/phython-basic/regular_expression.py",
+		"/home/sumit/Desktop/phython-basic/tkinter.py",
+		"/home/sumit/Desktop/phython-basic/arduino.py",
+		"/home/sumit/Desktop/phython-basic/hackerrank.py",
+		"/home/sumit/Desktop/phython-basic/collatz.py",
+		"/home/sumit/Desktop/phython-basic/num_guess_game.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"temp",
+			"\t\t\t\t\n",
+			" \n",
+			"migrations",
+			"questionNum",
+			"correct",
+			"correctAnswer",
+			"                  \",",
+			"continue",
+			"X"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "__init__.cpython-35.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 297.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
