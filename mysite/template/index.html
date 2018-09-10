@@ -6,7 +6,16 @@
 
 <h1>{{ title }} is the page</h1>
 
-{{ object_list}}
+{% for obj in object_list %}
+
+{{obj.title}}<br/>
+{{obj.content}}<br/>
+{{obj.timestamp}}<br/>
+{{obj.updated}}<br/>
+{{obj.id}}<br/>
+
+
+{%endfor%}
 
 </body>
 
