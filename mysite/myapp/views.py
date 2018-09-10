@@ -3,6 +3,9 @@ from django.http import HttpResponse
 # Create your views here.
 
 
+def posts_home(requests):
+    return HttpResponse("<h1>HELLO</h1>")
+
 def posts_create(requests):
     return HttpResponse("<h1>CREATE</h1>")
 
