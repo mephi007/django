@@ -1,5 +1,6 @@
 from django.shortcuts import render
 from django.http import HttpResponse
+from .models import post
 # Create your views here.
 
 
@@ -10,7 +11,9 @@ def posts_home(requests):
     return render(requests, 'index.html', context)
 
 def posts_create(requests):
+    queryset= post.objects.all()
     context ={ 
+        "object_list": queryset,
         "title": "create"
     }
     return render(requests, 'index.html', context)
