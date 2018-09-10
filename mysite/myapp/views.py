@@ -4,10 +4,16 @@ from django.http import HttpResponse
 
 
 def posts_home(requests):
-    return render(requests , 'index.html', {})
+    context ={ 
+        "title": "home"
+    }
+    return render(requests, 'index.html', context)
 
 def posts_create(requests):
-    return HttpResponse("<h1>CREATE</h1>")
+    context ={ 
+        "title": "create"
+    }
+    return render(requests, 'index.html', context)
 
 def posts_detail(requests):
     return HttpResponse("<h1>DETAIL</h1>")
