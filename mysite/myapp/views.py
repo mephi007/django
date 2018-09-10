@@ -4,4 +4,4 @@ from django.http import HttpResponse
 
 
 def posts_home(requests):
-	return HttpResponse("<h1>HELLO</h1>")
+    return HttpResponse("<h1>HELLO</h1>")
