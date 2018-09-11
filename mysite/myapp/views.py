@@ -18,11 +18,11 @@ def posts_list(requests):
     }
     return render(requests, 'index.html', context)
 
-def posts_detail(requests):
+def posts_detail(requests, id=None):
     #instance = post.objects.get(id=1)
-    instance = get_object_or_404(post, id=1)
+    instance = get_object_or_404(post, id=id)
     context ={ 
-        "title": "detail",
+        "title": instance.title,
         "instance": instance,
     }
     return render(requests, 'post_detail.html', context)
