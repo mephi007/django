@@ -12,3 +12,6 @@ class post(models.Model):
     def __str__(self):
         return self.title
 
+    def get_absolut_url(self):
+    	return "/%s"%(self.id)
+
