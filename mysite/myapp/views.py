@@ -1,7 +1,15 @@
 from django.shortcuts import render, get_object_or_404
 from django.http import HttpResponse
 from .models import post
+from .form import PostForm
 # Create your views here.
+
+def posts_form(request):
+    form = PostForm()
+    context = {
+    "form": form,
+    }
+    return render(requests, 'post_form.html', context)
 
 def posts_create(requests):
     
