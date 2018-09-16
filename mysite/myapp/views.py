@@ -12,11 +12,11 @@ def posts_form(request):
     return render(requests, 'post_form.html', context)
 
 def posts_create(requests):
-    
-    context ={ 
-        "title": "create"
+    form = PostForm()
+    context = {
+    "form": form,
     }
-    return render(requests, 'index.html', context)
+    return render(requests, 'post_form.html', context)
 
 def posts_list(requests):
     queryset= post.objects.all()
