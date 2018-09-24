@@ -1,11 +1,19 @@
 from django.shortcuts import render, get_object_or_404
 from django.http import HttpResponse
+from django.template.backends.utils import csrf_input_lazy, csrf_token_lazy
 from .models import post
 from .form import PostForm
 # Create your views here.
 
-def posts_form(request):
-    form = PostForm()
+def posts_form(requests):
+    form = PostForm(requests.POST or None)
+    if form.is_valid():
+        instance = form.save(commit=False)
+        instance.save()
+    # if requests.method == 'POST':
+    #     print("title " + requests.POST.get("content"))
+    #     print(requests.POST.get("title"))
+    #     #post.object.create(title=title)
     context = {
     "form": form,
     }
@@ -13,6 +21,8 @@ def posts_form(request):
 
 def posts_create(requests):
     form = PostForm()
+    if requests.method == 'POST':
+        print(requests.POST)
     context = {
     "form": form,
     }
